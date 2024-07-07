@@ -6,28 +6,9 @@ information_page: true
 sidebar_priority: 4000
 ---
 
-### Guidance during the autumn
+### Guidance
 
-In the spring of 2023 the course will have guidance in both Kumpula campus and on Discord. The sessions on campus are held in Exactum BK107. The guidance sessions are the following
-
-
-| Time / Date | MON | TUE | WED | THU | FRI |
-|-----|----|----|----|----|----|
-| 10-11 | Campus | Campus | - | - | - |
-| 11-12 | Campus | Campus | - | Campus | - |
-| 12-13 | - | - | - | Campus | - |
-| 13-14 | - | - | - | - | - |
-| 14-15 | Campus | - | Discord | - | - |
-| 15-16 | Campus | - | Discord | - | - |
-| 16-17 | - | - | - | - | Discord |
-| 17-18 | - | - | - | - | Discord |
-
-In the table **Campus** means that the guidance session will be on campus, **Discord** means its remotely on Discord. During the on-campus sessions there might be help available also on Discord if the assistants have time to follow the course Discord.
-
-*The schedule is subject to change.*
-
-
-**The guidance sessions for Autumn begins on 11th of September.**
+**You will find the updated guidance schedule in the 2024 course area:** [Guidance](https://programming-24.mooc.fi/support-and-assistance)
 
 #### Discord
 
